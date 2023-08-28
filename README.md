@@ -1,2 +1,2 @@
 # wromox
-content für wromox
+only content img für wromox
